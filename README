@@ -11,5 +11,5 @@ To emulate results in /misop/exercises/ex*_answers.txt, the user must first run 
 With usearch v10 installed and referenced as $usearch in a local environment, the user can emulate the results in 
   /exercises/ex*_answers.txt by running the /exercises/ex*.bash files.
 
-The slides of what we presented is available in Tutorial 5.pptx, and all data used and generated in the course of this tutorial are
-  available in the various subfolders in this repository
+The slides of what we presented is available in Tutorial 5.pptx, and all data used and generated in the course of this tutorial 
+are available in the various subfolders in this repository
